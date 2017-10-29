@@ -1,0 +1,186 @@
+@charset "utf-8";
+/* CSS Document */
+
+.nav a{
+    color: #5a5a5a;
+    font-size: 12px;
+    font-weight: bold;
+    padding-top: 14px;
+    padding-bottom: 14px;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-transform: uppercase;
+}
+.nav li{
+    display:inline;
+}
+.jumbotron{
+    height: 248px;
+    width: 1352px;
+    background-image: url('images/blackkk.png');
+}
+
+.jumbotron h1{
+	color: #fff;
+	font-size: 48px;
+	font-weight: bold;
+	font-family:"Times New Roman", Times, serif;
+}
+
+.jumbotron p{
+	color: #fff;
+	font-size: 20px;
+}
+.jumbotron .container{
+	position:relative;
+	float:left;
+}
+.learn-more{
+    background-color: #f7f7f7;
+}
+.learn-more h3{
+    font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+    font-size: 18px;
+    font-weight: bold;
+}
+.learn-more a{
+    color: #C58917;
+}
+.neighborhood-guides{
+    background-color:#efefef;
+    border-bottom:1px solid #dbdbdb;
+}
+.neighborhood-guides h2{
+    color:#393c3d;
+    font-size:24px;
+}
+.neighborhood-guides p{
+    font-size:15px;
+    margin-bottom=13px;
+}
+
+.aboutnas{
+	height:auto;
+	width:auto;
+	padding:10px;
+}
+
+.aboutkkw{
+	height:auto;
+	width:auto;
+	padding:10px;
+}
+
+
+footer {
+	width: 100%;
+	background: #666666;
+	float: left;
+	margin: 0 0 .5% 0;
+	border-radius: 10px;
+}
+
+address {
+	font-size : 13px; 
+	text-align : center; 
+	color: #efefef;
+	padding: 1% 0;
+	text-shadow: 1px 1px 0px #202020
+}
+
+table {
+    border-collapse: collapse;
+	border-spacing: 5px;
+	padding:10px;
+    width: 110%;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+th {
+    height: 50px;
+    background-color: gray;
+    color: white;
+    padding-right: 10px;
+    padding-left: 10px;
+    width: auto;
+}
+
+table tr td {
+    width: 70px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+
+.onav a{
+    color: #0041C2;
+    padding-top: 50px;
+    padding-bottom: 14px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.map{
+	float:left;
+}
+
+mycustom{
+	color:#FFA62F;
+}
+mycustom1{
+	color:#008000;
+}
+
+
+
+
+
+.button {
+	-moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	box-shadow:inset 0px 1px 0px 0px #ffffff;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #ededed), color-stop(1, #dfdfdf) );
+	background:-moz-linear-gradient( center top, #ededed 5%, #dfdfdf 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ededed', endColorstr='#dfdfdf');
+	background-color:#ededed;
+	-webkit-border-top-left-radius:20px;
+	-moz-border-radius-topleft:20px;
+	border-top-left-radius:20px;
+	-webkit-border-top-right-radius:20px;
+	-moz-border-radius-topright:20px;
+	border-top-right-radius:20px;
+	-webkit-border-bottom-right-radius:20px;
+	-moz-border-radius-bottomright:20px;
+	border-bottom-right-radius:20px;
+	-webkit-border-bottom-left-radius:20px;
+	-moz-border-radius-bottomleft:20px;
+	border-bottom-left-radius:20px;
+	text-indent:0;
+	border:1px solid #dcdcdc;
+	display:inline-block;
+	color:#777777;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	font-style:normal;
+	height:65px;
+	line-height:65px;
+	width:100%;/*131px;*/
+	text-decoration:none;
+	text-align:center;
+	text-shadow:1px 1px 0px #ffffff;
+}
+.button:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #dfdfdf), color-stop(1, #ededed) );
+	background:-moz-linear-gradient( center top, #dfdfdf 5%, #ededed 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#dfdfdf', endColorstr='#ededed');
+	background-color:#dfdfdf;
+}.button:active {
+	position:relative;
+	top:1px;
+}

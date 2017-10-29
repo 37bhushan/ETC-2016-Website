@@ -1,0 +1,250 @@
+/* CSS Document */
+
+.navbar-brand{
+	background-color:#F7F7F7;
+	
+}
+.List {
+	text-decorations: none;
+	}
+.btn {
+	align-items:center;
+	align-self:center;
+	align-content:center;
+	align : center;
+	}
+	
+.Title1{
+	align-content: center;
+	align-text: center;
+	text-align: center;
+	font-size: 2.5em;
+}
+.Title2{
+	font-height:35px;
+	align-content: center;
+	align-text: center;
+	text-align: center;
+	font-size: 50px;
+	color:#D71518;
+}
+
+a.hovor {
+	text-decoration:none;
+}
+
+.Padd1{
+	padding-left:5px;
+	}
+	
+.Padd2{
+	text-align:center;
+}
+div a:hover {
+	text-decoration:none;
+	}
+    
+    
+.ag{
+    size:35;
+font-height:30px;
+font-size:30px;
+text-align:center;
+}
+
+.m1{
+    marquee-direction:forward;
+    marquee-style:scroll;
+    marquee-speed:normal;
+}
+
+
+.Padd2{
+	padding-left:5px;
+	text-align:center;
+	}
+
+.mar1{marquee-speed:slow;
+}
+
+.nav1 .navbar {
+	background-image:url(../img/nav.png);
+}
+.ul1 {
+	text-decoration:none;
+	display:inline-block;
+	padding-left:100px;
+}
+.ul1 li {
+	text-decoration:none;
+	display:inline-block;
+	padding-top:10px;
+	padding-left:35px;
+	
+	
+}
+
+.nav1 .navbar-brand{
+    color: white;
+	padding-left:109px;
+    background-color:none;
+	}
+.navbar-brand{
+    background-color: none;
+    background: transparent;
+}
+
+.nav1 .navbar ul li a {
+
+    color: white;
+}
+.nav1 .navbar ul li a:hover{
+    color: deepskyblue;
+}
+@media(max-width :900px){
+    iframe{
+       height: 100%;
+       width:  100%;
+    }
+    .as{
+        display: none;
+    }
+    
+   .map1{
+       padding: 0px;
+       height: 100%;
+       width: 100%;
+   }
+   
+}
+    
+    @media (max-width: 800px){
+		table{width:100%;
+		
+		}
+        .nav1 .navbar {
+            background-color: #545454; 
+            background-image: none;
+        }
+        .nav1 .navbar-brand{
+            color: white;
+            background-image: none;
+            background-color: transparent;
+        }
+        .nav1 ul li {
+            background-color: #545454;
+            background-image: none;
+        }
+         .nav1 ul {
+            background-color: #545454;
+            background-image: none;
+        }
+        
+        
+        .nav1 .navbar-brand:hover{
+            color: white;
+            background-image: none;
+            background-color: #545454;
+        }
+        .nav1 ul li:hover {
+            background-color: #545454;
+            background-image: none;
+        }
+         .nav1 ul:hover {
+            background-color: #545454;
+            background-image: none;
+        }
+        .nav1 {
+            background-image: none;
+            background-color: #545454;
+        }
+        .nav1:hover {
+            background-image: none;
+            background-color: #545454;
+        }
+        .nav1 ul li:active {
+            background-image: none;
+            background-color: #545454;
+        }
+        .nav1 ul li {
+            padding-left: 50px;
+        }
+        .navbar-inverse .navbar-collapse,
+        .navbar-inverse .navbar-form {
+              border-color: #ffffff;
+        }
+      .nav .navbar .navbar-toggle .collapsed {
+            background-color: #545454;
+        }
+        
+    }
+    .navbar-toggle collapsed{
+        background-color: transparent;
+    }
+	
+	.nav1 .navbar ul li x {
+		display:inline-block;
+		color:#FFFFFF;
+		padding-top:00px;
+		padding-bottom:00px;
+		}
+  td , tr {
+	  padding:0.5em;
+  }
+  .carousel,.carousel-control,.carousel-control:hover,.carousel-control:active,.carousel-inner{
+	  background-image:none;
+	  background-color:transparent;
+  }
+  
+ 
+ .carousel-control{
+	  background-image:none;
+	  background-color:transparent;
+  }
+  
+  
+  .carousel-control.left,.carousel-control.right{
+	  background-image:none;
+	  background-color:transparent;
+  }
+.w{
+    background-color: white;
+}  
+
+  .table-responsive{
+      background-color: white;
+  } 
+
+  .table-responsive th{
+      border: 0px;
+     
+      color: red;
+      font-size: 1.5em;
+      text-align: justify;
+  }
+ .table-responsive  tr{
+     
+      width: 100%;
+      color: deepskyblue;
+     padding: 0px;
+  }
+ .table-responsive td{
+      padding-left: 2px;
+  }
+  .xbtn{
+      height: 4em;
+      width: 12em;
+  }
+  .mos{
+      padding-top:3em;
+  }
+  
+  .xbtn:active{
+      text-decoration: none;
+
+  }
+  
+  .counter {
+      background-color: none;
+      border: none;
+  }
